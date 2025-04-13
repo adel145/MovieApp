@@ -23,7 +23,7 @@ const contentData = [
         duration: "02:13:55",
         tags: ["Crime", "Comedy", "Entertainment"],
         description: "Estella is a young and clever grifter who's determined to make a name for herself in the fashion world.",
-        img: "/videos/cruella.png",
+        img: "//upload.wikimedia.org/wikipedia/en/f/f6/Cruella_2021_film_poster.jpg",
         videoEmbed: "https://e4xb5c2xnz.sbs/embed/51ku97w3c7sn",
         cast: [
           { name: "Emma Stone", img: "https://upload.wikimedia.org/wikipedia/commons/7/74/Emma_Stone_at_the_2024_New_York_Film_Festival_1_%28cropped%29.jpg" },
@@ -39,7 +39,7 @@ const contentData = [
         duration: "01:50:33",
         tags: ["Animated", "Comedy", "Drama"],
         description: "Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him.",
-        img: "/videos/Ratatouille.png",
+        img: "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
         videoEmbed: "https://e4xb5c2xnz.sbs/embed/0o8i0kjo9tac",
         cast: [
           { name: "Patton Oswalt", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Patton_Oswalt_by_Gage_Skidmore_3_%28cropped%29.jpg/800px-Patton_Oswalt_by_Gage_Skidmore_3_%28cropped%29.jpg" },
